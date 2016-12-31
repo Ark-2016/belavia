@@ -1,0 +1,32 @@
+[INFO ] 2016-12-31 16:22:53.278 [main] DriverSingleton - Browser started
+[INFO ] 2016-12-31 16:22:59.166 [main] HomePage - open
+[INFO ] 2016-12-31 16:23:00.053 [main] DriverSingleton - Browser quited
+
+[INFO ] 2016-12-31 16:23:13.128 [main] DriverSingleton - Browser started
+[INFO ] 2016-12-31 16:23:17.058 [main] HomePage - open
+[INFO ] 2016-12-31 16:23:17.624 [main] HomePage - filled in the search form
+[INFO ] 2016-12-31 16:23:18.245 [main] HomePage - submit searching
+[INFO ] 2016-12-31 16:23:21.266 [main] DriverSingleton - Browser quited
+
+[INFO ] 2016-12-31 16:23:26.877 [main] DriverSingleton - Browser started
+[INFO ] 2016-12-31 16:23:30.400 [main] HomePage - open
+[INFO ] 2016-12-31 16:23:31.043 [main] HomePage - filled in the search form
+[INFO ] 2016-12-31 16:23:31.619 [main] HomePage - submit searching
+[INFO ] 2016-12-31 16:23:33.879 [main] ChoicePage - Flight Минск - Сочи
+[INFO ] 2016-12-31 16:23:33.915 [main] ChoicePage - TariffCalendar submitted
+[INFO ] 2016-12-31 16:23:33.915 [main] ChoicePage - ----------------------------
+[INFO ] 2016-12-31 16:23:37.031 [main] TariffPage - 27 фев   199,00 EUR   06 мар
+[INFO ] 2016-12-31 16:23:37.031 [main] TariffPage - 02 мар   199,00 EUR   09 мар
+[INFO ] 2016-12-31 16:23:37.031 [main] TariffPage - ----------------------------
+[INFO ] 2016-12-31 16:23:42.245 [main] TariffPage - 09 мар   199,00 EUR   16 мар
+[INFO ] 2016-12-31 16:23:42.245 [main] TariffPage - ----------------------------
+[INFO ] 2016-12-31 16:23:46.933 [main] TariffPage - 16 мар   209,00 EUR   23 мар
+[INFO ] 2016-12-31 16:23:46.933 [main] TariffPage - ----------------------------
+[INFO ] 2016-12-31 16:23:51.417 [main] TariffPage - 20 мар   199,00 EUR   27 мар
+[INFO ] 2016-12-31 16:23:51.417 [main] TariffPage - 23 мар   199,00 EUR   30 мар
+[INFO ] 2016-12-31 16:23:51.417 [main] TariffPage - ----------------------------
+[INFO ] 2016-12-31 16:23:56.636 [main] TariffPage - 27 мар   199,00 EUR   03 апр
+[INFO ] 2016-12-31 16:23:56.636 [main] TariffPage - 30 мар   199,00 EUR   06 апр
+[INFO ] 2016-12-31 16:23:56.636 [main] TariffPage - ----------------------------
+[INFO ] 2016-12-31 16:23:56.636 [main] DriverSingleton - Browser quited
+

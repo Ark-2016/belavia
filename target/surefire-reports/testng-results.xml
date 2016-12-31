@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="59041" started-at="2016-12-31T00:48:18Z" finished-at="2016-12-31T00:49:17Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="59041" started-at="2016-12-31T00:48:18Z" finished-at="2016-12-31T00:49:17Z">
+      <class name="by.htp.belavia.pages.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="setUp" is-config="true" duration-ms="9496" started-at="2016-12-31T03:49:07Z" description="Initiate browser and open page" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testDepartureDateField()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="testDepartureDateField" duration-ms="136" started-at="2016-12-31T03:49:17Z" description="Check DepartureDate field displayed" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDepartureDateField -->
+        <test-method status="PASS" signature="testFromCityField()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="testFromCityField" duration-ms="84" started-at="2016-12-31T03:49:17Z" description="Check FromCity field displayed" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFromCityField -->
+        <test-method status="PASS" signature="testReturnDateField()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="testReturnDateField" duration-ms="38" started-at="2016-12-31T03:49:17Z" description="Check ReturnDate field displayed" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReturnDateField -->
+        <test-method status="PASS" signature="testSubmitButton()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="testSubmitButton" duration-ms="32" started-at="2016-12-31T03:49:17Z" description="Check Submit button displayed" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitButton -->
+        <test-method status="PASS" signature="testToCityField()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="testToCityField" duration-ms="31" started-at="2016-12-31T03:49:17Z" description="Check ToCity field displayed" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testToCityField -->
+        <test-method status="PASS" signature="testVerifyUrl()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="testVerifyUrl" duration-ms="8" started-at="2016-12-31T03:49:17Z" description="Verify the Home page URL" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyUrl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.htp.belavia.pages.HomePageTest@3f3afe78]" name="tearDown" is-config="true" duration-ms="449" started-at="2016-12-31T03:49:17Z" description="Stop browser" finished-at="2016-12-31T03:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.htp.belavia.pages.HomePageTest -->
+      <class name="by.htp.belavia.logic.TicketBoxTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.htp.belavia.logic.TicketBoxTest@b684286]" name="setUp" is-config="true" duration-ms="18375" started-at="2016-12-31T03:48:18Z" description="Open the Ticket box" finished-at="2016-12-31T03:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTicketSearching()[pri:0, instance:by.htp.belavia.logic.TicketBoxTest@b684286]" name="testTicketSearching" duration-ms="10171" started-at="2016-12-31T03:48:37Z" description="Verify success of the search " finished-at="2016-12-31T03:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTicketSearching -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.htp.belavia.logic.TicketBoxTest@b684286]" name="tearDown" is-config="true" duration-ms="790" started-at="2016-12-31T03:48:47Z" description="Stop web driver" finished-at="2016-12-31T03:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.htp.belavia.logic.TicketBoxTest -->
+      <class name="by.htp.belavia.pages.ChoicePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.htp.belavia.pages.ChoicePageTest@880ec60]" name="setUp" is-config="true" duration-ms="18622" started-at="2016-12-31T03:48:48Z" description="Initiate browser, fill in and submit home page and open choice page" finished-at="2016-12-31T03:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTariffCalendarLabelDisplayed()[pri:0, instance:by.htp.belavia.pages.ChoicePageTest@880ec60]" name="testTariffCalendarLabelDisplayed" duration-ms="73" started-at="2016-12-31T03:49:06Z" description="Check TariffCalendar label displayed" finished-at="2016-12-31T03:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTariffCalendarLabelDisplayed -->
+        <test-method status="PASS" signature="testVerifyFlightRoute()[pri:0, instance:by.htp.belavia.pages.ChoicePageTest@880ec60]" name="testVerifyFlightRoute" duration-ms="72" started-at="2016-12-31T03:49:06Z" description="Verify Flight route" finished-at="2016-12-31T03:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyFlightRoute -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.htp.belavia.pages.ChoicePageTest@880ec60]" name="tearDown" is-config="true" duration-ms="634" started-at="2016-12-31T03:49:06Z" description="Stop browser" finished-at="2016-12-31T03:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.htp.belavia.pages.ChoicePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

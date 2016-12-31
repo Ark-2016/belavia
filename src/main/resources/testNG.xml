@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite" verbose="1">
+    <test name="TripleTest">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="by.htp.belavia.pages.HomePageTest" />
+            <class name="by.htp.belavia.pages.ChoicePageTest" />
+            <class name="by.htp.belavia.logic.TicketBoxTest" />
+        </classes>
+    </test>
+</suite>
